@@ -1,0 +1,20 @@
+Loading plugins phase: Elapsed time ==> 0s.352ms
+<CYPRESSTAG name="CyDsfit arguments...">
+cydsfit arguments: -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p D:\Chau Nguyen\OneDrive\Arrow\RangDong\RangDongDemo\BLE_RGB_TOUCH.cydsn\BLE_RGB_TOUCH.cyprj -d CY8C4245PVS-482 -s D:\Chau Nguyen\OneDrive\Arrow\RangDong\RangDongDemo\BLE_RGB_TOUCH.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE</CYPRESSTAG>
+<CYPRESSTAG name="Design elaboration results...">
+ADD: fit.M0031: error: Clock Error: (Source clock 'LFCLK' contains an error.  Address the error on 'LFCLK' or select another source for this clock.).
+ * C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\BLE_v3_20\PSoC4\BLE_v3_20.cysch (Instance:LFCLK)
+ * D:\Chau Nguyen\OneDrive\Arrow\RangDong\RangDongDemo\BLE_RGB_TOUCH.cydsn\BLE_RGB_TOUCH.cydwr (BLE_LFCLK)
+
+ADD: fit.M0031: error: Clock Error: (The source clock's frequency is unknown. Source clocks must have a known frequency or an explicit divider must be used.).
+ * C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\BLE_v3_20\PSoC4\BLE_v3_20.cysch (Instance:LFCLK)
+ * D:\Chau Nguyen\OneDrive\Arrow\RangDong\RangDongDemo\BLE_RGB_TOUCH.cydsn\BLE_RGB_TOUCH.cydwr (BLE_LFCLK)
+
+ADD: fit.M0006: error: Pin Error: (Invalid pin assignment P4[0]. This pin does not support CSD_CMOD.).
+ * D:\Chau Nguyen\OneDrive\Arrow\RangDong\RangDongDemo\BLE_RGB_TOUCH.cydsn\BLE_RGB_TOUCH.cydwr (\CapSense:Cmod\)
+
+ADD: sdb.M0059: error: Error in component: BLE. The BLE_v3_20 component (BLE) is not compatible with the selected device. Please check the component datasheet for details on updating to a compatible component.
+ * D:\Chau Nguyen\OneDrive\Arrow\RangDong\RangDongDemo\BLE_RGB_TOUCH.cydsn\TopDesign\TopDesign.cysch (Instance:BLE)
+
+</CYPRESSTAG>
+Elaboration phase: Elapsed time ==> 2s.393ms

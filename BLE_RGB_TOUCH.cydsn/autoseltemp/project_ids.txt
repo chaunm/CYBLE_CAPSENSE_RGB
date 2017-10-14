@@ -1,0 +1,7 @@
+D:\Chau Nguyen\OneDrive\Arrow\RangDong\RangDongDemo\BLE_RGB_TOUCH.cydsn\BLE_RGB_TOUCH.cyprj|688d72f3-a393-4ad3-9fd4-b5bcf56df71e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|69deecf7-3c8d-4736-99a7-dc87c5b88f78
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e2d29a44-f451-45d3-8888-2b53685f85f2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|a6a9ecee-08cd-434c-803d-0766399f2aa2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|b031d935-1d68-4396-bfc9-aaf897cf12d1
+D:\Chau Nguyen\OneDrive\Arrow\RangDong\RangDongDemo\CapSense_CSD_P4_Example_WithTuner01.cydsn\CapSense_CSD_P4_Example_WithTuner01.cyprj|e702a8a7-8842-42d4-9f6e-4423e6b1ba8a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|48bce8bf-93ce-40a3-8faa-cd427a8e459c
